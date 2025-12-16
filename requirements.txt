@@ -1,17 +1,9 @@
 openai
 langchain
 langchain-openai
-python-dotenv
-pandas
-numpy
-faiss-cpu
-gradio
-tiktoken
-nltk
-scikit-learn
-openai
-langchain
-langchain-openai
+langchain-huggingface
+langchain-chroma
+langchain-community
 python-dotenv
 pandas
 numpy
@@ -20,3 +12,4 @@ gradio
 tiktoken
 nltk
 scikit-learn
+sentence-transformers
